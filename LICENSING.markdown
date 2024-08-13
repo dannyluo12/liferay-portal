@@ -1,5 +1,7 @@
 # Liferay dual-licensing
 
+THIS IS A TEST.
+
 This software is available to you under a dual-licensing approach, whereby you may choose under any of the following options:
 
 - **FOSS [GNU Lesser General Public License v2.1 or later][lgpl-2.1-or-later]** – this means anyone may use it under either LGPL-2.1 or any later version of LGPL. Currently the only newer version is LGPL-3.0, but should the [FSF][fsf] in the future adopt a newer version, you will be able to choose that as well;
